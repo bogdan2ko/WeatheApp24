@@ -24,3 +24,6 @@ You can configure databse settings in env.dev and in docker-compose.
 * `make makemigrations` — Create new migrations.
 * `make migrate` — Apply migrations.
 * `make runtests` — Run tests
+
+
+24
